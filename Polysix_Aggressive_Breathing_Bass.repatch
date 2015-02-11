@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="1.0" >
+    <DeviceNameInEnglish>
+        Korg Polysix
+    </DeviceNameInEnglish>
+    <Properties deviceProductID="jp.co.korg.Polysix"  deviceVersion="1.0.6" >
+        <Object name="custom_properties" >
+            <Value property="HOLD"  type="number" >
+                0
+            </Value>
+            <Value property="KEY_ASSIGN"  type="number" >
+                1
+            </Value>
+            <Value property="VOICES_UNISON"  type="number" >
+                0
+            </Value>
+            <Value property="VOICES_TOTAL"  type="number" >
+                23
+            </Value>
+            <Value property="UNISON_DETUNE"  type="number" >
+                0
+            </Value>
+            <Value property="UNISON_SPREAD"  type="number" >
+                1
+            </Value>
+            <Value property="ANALOG"  type="number" >
+                0
+            </Value>
+            <Value property="VIBRATO_INT"  type="number" >
+                1
+            </Value>
+            <Value property="VCO_OCTAVE"  type="number" >
+                0
+            </Value>
+            <Value property="VCO_WAVE_FORM"  type="number" >
+                2
+            </Value>
+            <Value property="VCO_PWM_ADJUST"  type="number" >
+                0.3388
+            </Value>
+            <Value property="VCO_PWM_SPEED"  type="number" >
+                0
+            </Value>
+            <Value property="VCO_SUB_OSC"  type="number" >
+                2
+            </Value>
+            <Value property="VCF_CUTOFF"  type="number" >
+                0.804688
+            </Value>
+            <Value property="VCF_RESONANCE"  type="number" >
+                0.335
+            </Value>
+            <Value property="VCF_EG_INTENSITY"  type="number" >
+                0.655
+            </Value>
+            <Value property="VCF_KBD_TRACK"  type="number" >
+                0.195
+            </Value>
+            <Value property="VCA_MODE"  type="number" >
+                1
+            </Value>
+            <Value property="VCA_ATTENUATOR"  type="number" >
+                8
+            </Value>
+            <Value property="MG_KEY_SYNC"  type="number" >
+                0
+            </Value>
+            <Value property="MG_TEMPO_SYNC"  type="number" >
+                0
+            </Value>
+            <Value property="MG_BASE_NOTE"  type="number" >
+                3
+            </Value>
+            <Value property="MG_FREQUENCY"  type="number" >
+                0.5782
+            </Value>
+            <Value property="MG_TIMES"  type="number" >
+                15
+            </Value>
+            <Value property="MG_DELAY_TIME"  type="number" >
+                0.515
+            </Value>
+            <Value property="MG_LEVEL"  type="number" >
+                0.00500011
+            </Value>
+            <Value property="MG_DESTINATION"  type="number" >
+                2
+            </Value>
+            <Value property="EG_ATTACK"  type="number" >
+                0.125
+            </Value>
+            <Value property="EG_DECAY"  type="number" >
+                0.275
+            </Value>
+            <Value property="EG_SUSTAIN"  type="number" >
+                0.5225
+            </Value>
+            <Value property="EG_RELEASE"  type="number" >
+                0.2345
+            </Value>
+            <Value property="PAN"  type="number" >
+                0.5
+            </Value>
+            <Value property="VOLUME"  type="number" >
+                0.9
+            </Value>
+            <Value property="ARPEGGIO"  type="number" >
+                0
+            </Value>
+            <Value property="ARP_KEY_SYNC"  type="number" >
+                0
+            </Value>
+            <Value property="ARP_TEMPO_SYNC"  type="number" >
+                1
+            </Value>
+            <Value property="ARP_BASE_NOTE"  type="number" >
+                7
+            </Value>
+            <Value property="ARP_SPEED"  type="number" >
+                0.4
+            </Value>
+            <Value property="ARP_TIMES"  type="number" >
+                15
+            </Value>
+            <Value property="ARP_RANGE"  type="number" >
+                0
+            </Value>
+            <Value property="ARP_MODE"  type="number" >
+                0
+            </Value>
+            <Value property="ARP_LATCH"  type="number" >
+                0
+            </Value>
+            <Value property="FX_MODE"  type="number" >
+                1
+            </Value>
+            <Value property="FX_SPREAD"  type="number" >
+                1
+            </Value>
+            <Value property="FX_SPEED"  type="number" >
+                0
+            </Value>
+            <Value property="PITCH_BEND_RANGE"  type="number" >
+                0.166667
+            </Value>
+            <Value property="TRANSPOSE"  type="number" >
+                24
+            </Value>
+            <Value property="TUNE"  type="number" >
+                0.5
+            </Value>
+            <Value property="EM1_SOURCE"  type="number" >
+                1
+            </Value>
+            <Value property="EM1_VCO_PW"  type="number" >
+                0.5
+            </Value>
+            <Value property="EM1_VCF_CUTOFF"  type="number" >
+                0.61
+            </Value>
+            <Value property="EM1_VCA_GAIN"  type="number" >
+                0.5
+            </Value>
+            <Value property="EM1_MG_LEVEL"  type="number" >
+                0.5
+            </Value>
+            <Value property="EM2_SOURCE"  type="number" >
+                5
+            </Value>
+            <Value property="EM2_VCO_PW"  type="number" >
+                0.5
+            </Value>
+            <Value property="EM2_VCF_CUTOFF"  type="number" >
+                0.5
+            </Value>
+            <Value property="EM2_VCA_GAIN"  type="number" >
+                0.5
+            </Value>
+            <Value property="EM2_MG_LEVEL"  type="number" >
+                0.5
+            </Value>
+        </Object>
+    </Properties>
+</JukeboxPatch>
